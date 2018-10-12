@@ -1,0 +1,14 @@
+C:\Users\-\Desktop\Maniac2\Maniac\bin\Debug\Maniac.exe.config
+C:\Users\-\Desktop\Maniac2\Maniac\bin\Debug\Maniac.exe
+C:\Users\-\Desktop\Maniac2\Maniac\bin\Debug\Maniac.pdb
+C:\Users\-\Desktop\Maniac2\Maniac\obj\Debug\Maniac.csprojAssemblyReference.cache
+C:\Users\-\Desktop\Maniac2\Maniac\obj\Debug\Maniac.csproj.CoreCompileInputs.cache
+C:\Users\-\Desktop\Maniac2\Maniac\obj\Debug\Maniac.exe
+C:\Users\-\Desktop\Maniac2\Maniac\obj\Debug\Maniac.pdb
+C:\Users\aleks\Desktop\Maniac2\Maniac\bin\Debug\Maniac.exe.config
+C:\Users\aleks\Desktop\Maniac2\Maniac\bin\Debug\Maniac.exe
+C:\Users\aleks\Desktop\Maniac2\Maniac\bin\Debug\Maniac.pdb
+C:\Users\aleks\Desktop\Maniac2\Maniac\obj\Debug\Maniac.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Maniac2\Maniac\obj\Debug\Maniac.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Maniac2\Maniac\obj\Debug\Maniac.exe
+C:\Users\aleks\Desktop\Maniac2\Maniac\obj\Debug\Maniac.pdb
